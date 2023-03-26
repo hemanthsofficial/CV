@@ -1,0 +1,57 @@
+/*-----------------------------------------TAG SELECTORS-------------------------------------------*/
+body {
+    background-color: #fff836;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #000d72;
+    background-color: #fff836;
+    border-width: 5px;
+    width: 10%;
+  }
+  h1 {
+    color: #000d72;
+    font-family: "Verdana", sans-serif;
+    font-size: 45px;
+    font-weight: 900;
+  }
+  h2 {
+    color: #000d72;
+    font-family: "Corbert Condensed Italic", sans-serif;
+  }
+  h3 {
+    color: #000d72;
+    font-family: "Times New Roman", serif;
+  }
+  p {
+    font-family: "Calibri";
+    font-size: 20px;
+  }
+  li {
+    font-family: "Calibri";
+    font-style: oblique;
+    font-weight: 500;
+  }
+
+  /*--------------------------------------CLASS SELECTORS-----------------------------------------*/
+  .profile_picture {
+    width: 70%;
+    border-radius: 70%;
+    background-color: #fff836;
+    border-color: blue;
+  }
+  .skills {
+    font-variant: small-caps;
+  }
+  .profileline {
+    border-style: none;
+    border-top-style: solid;
+    border-color: #000d72;
+    border-width: 3px;
+    width: 60%;
+  }
+  /*------------------------------------ID SELECTORS----------------------------------------------*/
+  #aboutme {
+    font-family: "Corbert Condensed Italic", sans-serif;
+  }
